@@ -1,7 +1,8 @@
 ### 这是一个自动生成配套vue文件套餐
 
-#### 可选择项目中安装或者全局安装
-> 1.cnpm install automatic-file-gao --save     ||    1.1 cnpm install automatic-file-gao -g
+#### 可选择项目中安装或者全局安装 (二选一)
+## cnpm install automatic-file-gao --save  
+## cnpm install automatic-file-gao -g
 - 仅限于项目中安装配置项 
 >package.json 
 ```JS
