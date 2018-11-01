@@ -1,0 +1,21 @@
+{
+  "name": "automatic-file-gao",
+  "version": "1.1.4",
+  "description": "gaoyanan",
+  "author": "gaoyanan",
+  "main": "",
+  "bin": {
+    "automatic-file-gao": "./bin/index.js"
+  },
+  "scripts": {},
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^2.0.4",
+    "commander": "^2.17.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "_from": "automatic-file-gao@1.1.4",
+  "_resolved": "http://registry.npm.taobao.org/automatic-file-gao/download/automatic-file-gao-1.1.4.tgz"
+}
